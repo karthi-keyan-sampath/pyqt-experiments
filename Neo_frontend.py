@@ -1,7 +1,5 @@
 '''
-Created on Dec 21, 2018
-
-@author: afukxs8
+@author: Karthikeyan Sampath
 '''
 from PyQt5.QtWidgets import QApplication,QWidget,QPushButton,QLabel,QFormLayout,QTableView,QLCDNumber,QLineEdit,QInputDialog
 from PyQt5.QtSql import QSqlDatabase,QSqlQuery,QSqlTableModel
